@@ -12,7 +12,7 @@ This is the official Franz recipe for Mattermost, modified to have a static URL 
 
 3. Create a `dev` folder if you have not already done so
 
-4. Create a `Mattermost-rh` directory
+4. Create a `Mattermost-rh` directory in the dev directory
 
 5. Copy the contents of the `recipe-mattermost` directory into the the Mattermost-rh directory
 
