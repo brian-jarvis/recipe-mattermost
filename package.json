@@ -7,8 +7,11 @@
   "author": "Stefan Malzner <stefan@adlk.io>",
   "license": "MIT",
   "config": {
+    "serviceURL": "http://mattermost.redhat.com/",
+    "serviceName": "RH Mattermost",
+    "message": "mattermost",
     "hasNotificationSound": true,
     "hasIndirectMessages": true,
-    "hasCustomUrl": true
+    "hasCustomUrl": false
   }
 }
