@@ -1,6 +1,6 @@
 {
-  "id": "mattermost",
-  "name": "Mattermost",
+  "id": "mattermost-rh",
+  "name": "Mattermost-rh",
   "version": "1.2.0",
   "description": "Mattermost",
   "main": "index.js",
